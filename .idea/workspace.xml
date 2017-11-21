@@ -7,391 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edc96381-2b85-449e-9ed9-bf19c3accba9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/action/DepartmentAction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/action/EmployeeAction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/dao/DepartmentDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/dao/EmployeeDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/dao/impl/DepartmentDaoImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/dao/impl/EmployeeDaoImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/domain/Department.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/domain/Employee.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/domain/PageBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/service/DepartmentService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/service/EmployeeService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/service/impl/DepartmentServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/service/impl/EmployeeServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/antlr-2.7.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/asm-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/asm-commons-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/asm-tree-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/c3p0-0.9.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/cglib-nodep-2.1_3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/commons-collections-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/commons-fileupload-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/commons-io-2.0.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/commons-lang-2.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/dom4j-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/freemarker-2.3.18.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/hibernate-commons-annotations-3.2.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/hibernate-core-3.6.5.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/javassist-3.11.0.GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/jta-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/mysql-connector-java-5.0.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/ognl-3.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/slf4j-api-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-aop-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-asm-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-beans-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-context-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-core-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-expression-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-jdbc-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-orm-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-tx-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/spring-web-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/struts2-core-2.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/struts2-spring-plugin-2.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/lib/xwork-core-2.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/base.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/cd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/empty.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/folderopen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/globe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/imgfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/join.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/joinbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/minusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/musicfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/nolines_minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/nolines_plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/plusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/question.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/img/trash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/base.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/cd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/empty.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/folderopen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/globe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/aLink_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/buy_btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/car.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/collection.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/des_input_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/des_title.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/des_title_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/down.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/hg_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/hot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/i.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/icon_cart_prompt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/j.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/login_btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/plus_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/red_link.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/shaoIcon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/shopIcon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/shop_sj.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/sj.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/sj_blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/sj_grey.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/t.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/user_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/icon/xing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/imgfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/join.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/joinbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/logo_index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/minusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/musicfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/nolines_minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/nolines_plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/plusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/question.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/shopping_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/step.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/trash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/userhead.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/webLogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/images/编辑.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/base.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/cd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/empty.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/folderopen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/globe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/imgfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/join.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/joinbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/minusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/musicfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/nolines_minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/nolines_plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/plusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/question.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/img/trash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/action/DepartmentAction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/action/EmployeeAction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/dao/DepartmentDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/dao/EmployeeDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/dao/impl/DepartmentDaoImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/dao/impl/EmployeeDaoImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/domain/Department.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/domain/Employee.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/domain/PageBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/service/DepartmentService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/service/EmployeeService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/service/impl/DepartmentServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/service/impl/EmployeeServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/TestDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/base.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/cd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/empty.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/folderopen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/globe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/imgfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/join.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/joinbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/minusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/musicfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/nolines_minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/nolines_plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/plusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/question.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/img/trash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/base.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/cd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/empty.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/folderopen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/globe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/aLink_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/buy_btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/car.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/collection.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/des_input_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/des_title.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/des_title_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/down.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/hg_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/hot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/i.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/icon_cart_prompt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/j.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/login_btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/plus_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/red_link.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/shaoIcon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/shopIcon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/shop_sj.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/sj.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/sj_blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/sj_grey.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/t.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/user_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon/xing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/imgfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/join.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/joinbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logo_index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/minusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/musicfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/nolines_minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/nolines_plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/plusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/question.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/shopping_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/step.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/trash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/userhead.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/webLogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/编辑.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/base.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/cd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/empty.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/folderopen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/globe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/imgfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/join.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/joinbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/minusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/musicfolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/nolines_minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/nolines_plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/plusbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/question.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/img/trash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f1ed3c2e-106a-42af-8a31-3ff84b3fa4ed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_commons_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_tree_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_junit_plugin_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_3_6_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SSH_002.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/domain/Department.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/com/renyao/ssh/domain/Employee.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/classes/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/addDepartment.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/addEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/dtree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/dtree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/editDepartment.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/editEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/left.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/listDep.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/listEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/right.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/frame/top.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/js/DD_belatedPNG_0.0.8a-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/js/dtree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/js/ie6Fixpng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/js/说明.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/backstage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/dtree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/style/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/action/DepartmentAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/action/EmployeeAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/dao/DepartmentDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/dao/EmployeeDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/dao/impl/DepartmentDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/dao/impl/EmployeeDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/domain/Department.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/domain/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/domain/Employee.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/domain/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/domain/PageBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/service/DepartmentService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/service/EmployeeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/service/impl/DepartmentServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/renyao/ssh/service/impl/EmployeeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/domain/Department.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/renyao/ssh/domain/Employee.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/addDepartment.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/addEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/dtree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/dtree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/editDepartment.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/editEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/left.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/listDep.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/listEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/right.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/frame/top.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/DD_belatedPNG_0.0.8a-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/dtree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/ie6Fixpng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/说明.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/backstage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/dtree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -434,8 +50,8 @@
       <file leaf-file-name="TestDao.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="175">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -453,7 +69,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -549,6 +165,36 @@
               <item name="SSH_002" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSH_002" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSH_002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSH_002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSH_002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSH_002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSH_002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSH_002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssh" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSH_002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSH_002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -574,7 +220,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -583,6 +229,7 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="JPA.DatabaseSchemaImportDialog" value="f1ed3c2e-106a-42af-8a31-3ff84b3fa4ed" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -848,8 +495,16 @@
       <workItem from="1511005312239" duration="1707000" />
       <workItem from="1511052331942" duration="14380000" />
       <workItem from="1511175257250" duration="5453000" />
-      <workItem from="1511247404871" duration="4543000" />
+      <workItem from="1511247404871" duration="5168000" />
     </task>
+    <task id="LOCAL-00001" summary="SSH下的一个员工管理网页">
+      <created>1511267504235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511267504235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -858,7 +513,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43555000" />
+    <option name="totallyTimeSpent" value="44180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -907,6 +562,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SSH下的一个员工管理网页" />
+    <option name="LAST_COMMIT_MESSAGE" value="SSH下的一个员工管理网页" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1275,8 +934,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="175">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
