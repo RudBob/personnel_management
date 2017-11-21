@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.renyao.ssh.domain.Department" table="department">
+        <id name="did" column="did">
+            <generator class="native"/>
+            <!-- 整型，所以使用 native -->
+        </id>
+        <!-- 部门名称-->
+        <property name="dname" column="dname" length="20"/>
+        <!--部门地址-->
+        <property name="ddesc" column="ddesc" length="100"/>
+
+        <!-- 一对多映射 -->
+        <set name="employees" cascade="delete" inverse="true">
+            <key column="dno"/>
+            <!--员工的对应的id-->
+            <one-to-many class="com.renyao.ssh.domain.Employee"/>
+        </set>
+    </class>
+</hibernate-mapping>
